@@ -1,0 +1,60 @@
+/*HEADER STYLES*/
+
+.navbar{
+	background-color: gray;
+}
+
+.navbar-header .navbar-brand{
+	color: black;
+	font-weight: bolder;
+	font-size: 1.5em;
+	padding-left : 15px
+}
+.navbar-header .navbar-brand:hover{
+	color: black;
+}
+#button{
+	border: 2px solid black;
+	margin-top: -30px;
+
+}
+#button:hover{
+	background-color: gray;
+}
+#button span{
+	border: 1px solid black;
+}
+#toggle-list{
+	margin-top: 20px;
+	margin-right:-5px;
+	margin-left: -13px;
+	border-top: none;
+	padding: 0px;
+}
+ul{
+	padding: 0;
+	margin-top: 5px;
+	margin-bottom: 0;
+	list-style-type: none;
+	border:2px solid black;
+	background-color: white;
+
+}
+#toggle-list li{
+	border: 1px solid black;
+}
+/*END OF HEADER*/
+
+.parag{
+background-color: gray;
+margin-bottom: 15px;
+}
+.parag h2{
+	font-size: 1.4em;
+	font-weight: bolder;
+	color: black;
+}
+.parag p{
+	color: black;
+	text-align: justify;
+}
